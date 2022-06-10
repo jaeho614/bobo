@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bobo/static/js/main.a6898d21.js",
+    "index.html": "/bobo/index.html",
+    "main.a6898d21.js.map": "/bobo/static/js/main.a6898d21.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a6898d21.js"
+  ]
+}
